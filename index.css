@@ -1,0 +1,42 @@
+body {
+background-color: rgb(255,198,0);
+font: normal 15pt Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+header {
+  text-align: left;
+  font-weight: bolder;
+}
+#topo{
+
+
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 8px;
+  height: 300px;
+  width:300px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+
+}
+#meio{
+  
+  
+  }
+#chao{
+  
+  }
+#ok{
+ margin:auto;
+     }
+#limpar{
+  margin:auto;  
+  }
+  
